@@ -45,3 +45,6 @@ gem 'devise'
 
 #Use Bower as package manager to install bootstrap
 gem 'bower-rails'
+
+#Use faker to create some customer data for use with app
+gem 'faker'
