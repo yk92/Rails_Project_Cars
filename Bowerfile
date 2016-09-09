@@ -1,2 +1,6 @@
 #Create dependency for Bootstrap
 asset 'bootstrap-sass-official'
+
+#Create dependency for Angular - ask specifically for ver 1.5
+asset 'angular', '~> 1.5'
+resolution 'angular', '1.5'
